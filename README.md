@@ -4,7 +4,7 @@ A three.js (WebGPU) tech demo: a forest of 1M trees and 1.5M bushes, on a curved
 GPU-driven cluster LOD system. Fly from the forest floor to 9 km up. Trees are generated with
 [ez-tree](https://github.com/dgreenheck/ez-tree).
 
-**Live:** https://victorzakharov.github.io/threejs-nanites/
+**Live:** https://ericeisaman.github.io/threejs-nanites/
 
 Needs WebGPU: Chrome / Edge on desktop and Android, Safari 26 on macOS and iOS.
 
